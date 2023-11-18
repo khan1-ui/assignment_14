@@ -1,0 +1,91 @@
+.w-div{
+  background-color: rgb(253, 249, 249);
+}
+.work-h3{
+  color: rgb(81, 156, 81);
+  padding-left: 52px;
+  padding-top: 28px;
+  font-size: 22px;
+}
+.work-h2{
+    
+    padding-left: 50px;
+}
+.work-div{padding-left: 40px;
+    margin-top: 52px;
+    width: 100%;
+    height: 300px;
+    display: flex;
+}
+
+.work-div1{
+    line-height: 30px;
+  width: 286px;
+  font-size: 20px;
+}
+.work-div-icon{
+    width: 70px;
+  height: 70px;
+  background-color: #80808052;
+  padding: 7px;
+  border-radius: 20px;
+  text-align: center;
+}
+.work-icon1{
+    margin-top: 15px;
+}
+.work-div-btn{
+    display: ruby;
+  font-size: 26px;
+  margin-top: 24px;
+  background-color: #80808000;
+  border: none;
+}
+.work-div2{
+    line-height: 30px;
+    width: 286px;
+    font-size: 20px;
+    margin-left: 215px; 
+}
+.work-div-icon2{
+    width: 70px;
+  height: 70px;
+  background-color: #80808052;
+  padding: 7px;
+  border-radius: 20px;
+  text-align: center;
+}
+.work-icon2{
+    margin-top: 15px;
+}
+.work-div-btn1{
+    display: ruby;
+  font-size: 26px;
+  margin-top: 24px;
+  background-color: #80808000;
+  border: none;
+}
+.work-div3{
+    line-height: 30px;
+    width: 286px;
+    font-size: 20px;
+    margin-left: 215px; 
+}
+.work-div-icon3{
+    width: 70px;
+  height: 70px;
+  background-color: #80808052;
+  padding: 7px;
+  border-radius: 20px;
+  text-align: center;
+}
+.work-icon3{
+    margin-top: 15px;
+}
+.work-div-btn2{
+    display: ruby;
+  font-size: 26px;
+  margin-top: 24px;
+  background-color: #80808000;
+  border: none;
+}

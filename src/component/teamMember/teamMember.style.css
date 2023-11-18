@@ -1,0 +1,37 @@
+.team-h3{
+    color: green;
+    padding: 15px;
+}
+.team-h2{
+    padding-left: 15px;
+  padding-bottom: 50px;
+}
+
+.team-div{
+    background: #063333;
+  display: inline-flex;
+  width: 100%;
+}
+.team-img-div{
+    height: 575px;
+    width: 390px;
+    padding-left: 43px;
+    padding-top: 25px;
+}
+.team-logo-img{
+    margin-left: -285px;
+    height: 70px;
+    width: 154px;
+    margin-bottom: 18px;
+}
+.team-div-p{
+    text-align: center;
+    font-size: 32px;
+    background: gray;
+    border-radius: 5px;
+    border: 2px solid;
+    height: 57px;
+    margin-top: -4px;
+    padding: 13px;
+    width: 363px;
+}

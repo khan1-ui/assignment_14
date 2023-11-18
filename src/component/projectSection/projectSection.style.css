@@ -1,0 +1,41 @@
+.project-h3{
+    padding-left: 35px;
+  color: green;
+  padding-top: 30px;
+}
+.project-h2{
+    padding-left: 30px;
+  padding-top: 10px;
+}
+.pro-div{
+
+  padding: 20px;
+  width: 100%;
+  overflow: hidden;
+  background-color: #8080800a;
+}
+.project-div{
+  width: 583px;
+  height: 595px;
+  padding: 10px;
+  margin-left: 59px;
+  background-color: #8080800f;
+  border-radius: 5px;
+  display: inline-block;
+  
+
+}
+.pro-img{
+  background-color: white;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 90px;
+  padding-top: 25px;
+}
+.pro-div-p{
+  font-size: 23px;
+  font-weight: bold;
+  margin-top: -62px;
+  padding-left: 30px;
+}

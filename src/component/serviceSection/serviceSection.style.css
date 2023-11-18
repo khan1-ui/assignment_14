@@ -1,0 +1,33 @@
+.src-h3{
+    padding-left: 35px;
+  color: green;
+  padding-top: 30px;
+}
+.src-h2{
+    padding-left: 30px;
+  padding-top: 10px;
+}
+.src-div{
+
+    padding: 20px;
+    width: 100%;
+    overflow: hidden;
+    background-color: #8080800a;
+}
+.service-div{
+  width: 625px;
+  height: 680px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #8080800f;
+  border: 1px solid #b8860b21;
+  border-radius: 5px;
+  display: inline-block;
+  
+
+}
+.src-div-h4{
+    padding-top: 20px;
+    opacity: 40%;
+    width: 461px;
+}

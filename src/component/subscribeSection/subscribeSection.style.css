@@ -1,0 +1,33 @@
+.sub-div{
+    text-align: center;
+  padding-top: 102px;
+  width: 100%;
+  height: 270px;
+  line-height: 37px;
+}
+
+.sub-div h3{
+    color: green;
+}
+.sub-div-p{
+    opacity: 40%;
+}
+.sub-input{
+    width: 265px;
+  height: 30px;
+  font-size: 20px;
+  border: none;
+}
+.sub-div-button{
+  width: 127px;
+  font-size: 20px;
+  height: 45px;
+  background-color: #e69604f7;
+  border: none;
+  border-radius: 1px;
+}
+.sub-input-div{
+  width: 393px;
+  border: 2px solid;
+  margin-left: 467px;
+}

@@ -1,0 +1,38 @@
+.hero-div{
+    background-color: rgb(253, 249, 249);
+    display: flex;
+}
+.hero-div1{
+    width: 461px;
+    height: auto;
+    padding: 40px;
+   
+}
+.hero-btn{
+    background-color: lightseagreen;
+  height: 43px;
+  width: 89px;
+  padding: 5px;
+  font-size: 15px;
+  border-radius: 4px;
+}
+.hero-div2{
+    width: calc(100% - 461px);
+}
+ .img1{
+ margin-left: 174px;
+  margin-right: 37px;
+  margin-top: 19px;
+}
+.img3{
+    margin-left: 205px;
+  margin-right: 13px;
+  margin-top: 10px;
+}
+.hero-div3{
+    height: 140px;
+}
+.div3-img{
+    margin: 50px;
+    padding: 15px;
+}

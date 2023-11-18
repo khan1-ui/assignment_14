@@ -1,0 +1,44 @@
+.ts-h3{
+    padding-left: 35px;
+  color: green;
+  padding-top: 30px;
+}
+.ts-h2{
+    padding-left: 30px;
+  padding-top: 10px;
+}
+.ts-main-div{
+  background-color: red;
+  padding-top: 40px;
+  margin-top: 30px;
+  padding-bottom: 57px;
+}
+.ts-img{
+    padding-left: 100px;
+  padding-top: 40px;
+}
+.ts-div{
+  width: 320px;
+  height: 503px;
+  padding: 20px;
+  margin-left: 59px;
+  margin-bottom: 21px;
+  background-color: #8080800f;
+  border-radius: 10px;
+  display: inline-block;
+  box-shadow: 1px 2px;
+}
+.ts-p{
+    opacity: 40%;
+    padding-bottom: 20px;
+  padding-top: 20px;
+  text-align: justify;
+}
+.tst-h2{
+    text-align: center;
+  padding: 10px;
+}
+.tst-h5{
+    text-align: center;
+  padding: 10px;
+}

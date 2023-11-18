@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+footer{
+    background-color: rgb(26, 22, 22);
+    color: white;
+    height: 350px;
+    width: 100%;
+    text-align: center
+}
+footer div{
+  width: 283px;
+  padding-left: 0px;
+  display: inline-block;
+  padding-top: 29px;
+  padding-right: 139px;}
+
+footer div img{
+    padding: 6px;
+  margin-top: 20px;
+}
+.h3{
+    color: white;
+    padding-top: 50px;
+}
+footer div ul{
+  padding: 28px;
+  list-style-type: none;
+}
+footer div li{
+font-size: 17px;
+}
+.footer-address{
+  width: 264px;
+  height: 134px;
+ 
+ 
+  font-size: 15px;
+  padding: 32px;
+}

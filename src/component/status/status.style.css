@@ -1,0 +1,30 @@
+.status-div{
+    display: flex;
+    padding-left: 122px;
+    padding-right: 123px;
+    background-color: rgb(253, 249, 249);
+}
+.s-div{
+    height: 170px;
+    width: 180px;
+    background-color: white;
+    padding: 38px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 1px 4px 7px #c6cdd2;
+    line-height: 28px;
+    margin: 10px;
+}
+.s-img-div{
+    width: 70px;
+    height: 70px;
+    background-color: #80808052;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 54px;
+    margin-bottom: 25px;
+}
+.s-icon{
+    margin-top: 15px;
+}
